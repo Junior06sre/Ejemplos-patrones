@@ -1,0 +1,11 @@
+C:\Users\junio\OneDrive\Escritorio\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\bin\Debug\Observer1.UI.exe.config
+C:\Users\junio\OneDrive\Escritorio\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\bin\Debug\Observer1.UI.exe
+C:\Users\junio\OneDrive\Escritorio\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\bin\Debug\Observer1.UI.pdb
+C:\Users\junio\OneDrive\Escritorio\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\obj\Debug\Observer1.UI.csproj.AssemblyReference.cache
+C:\Users\junio\OneDrive\Escritorio\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\obj\Debug\Observer1.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\junio\OneDrive\Escritorio\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\obj\Debug\Observer1.UI.Form1.resources
+C:\Users\junio\OneDrive\Escritorio\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\obj\Debug\Observer1.UI.Properties.Resources.resources
+C:\Users\junio\OneDrive\Escritorio\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\obj\Debug\Observer1.UI.csproj.GenerateResource.cache
+C:\Users\junio\OneDrive\Escritorio\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\obj\Debug\Observer1.UI.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Escritorio\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\obj\Debug\Observer1.UI.exe
+C:\Users\junio\OneDrive\Escritorio\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\obj\Debug\Observer1.UI.pdb

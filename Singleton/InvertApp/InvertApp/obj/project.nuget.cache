@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kz7Odb6TRmubfKn0/LwY+d76OO1XXefpFVo9X/9b+/qO5j68XrmmEGJSYnvpD7OHDniYDzIdR7nhN3C9UdSQkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Asignación sobre patrones de diseño\\Singleton\\InvertApp\\InvertApp\\InvertApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+C:\DGAM\Domingo\ITLA\2021 C3\TDS-003 PROGRAMACION I\SEMANA IV\Asignaciones\InvertApp\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.exe
+C:\DGAM\Domingo\ITLA\2021 C3\TDS-003 PROGRAMACION I\SEMANA IV\Asignaciones\InvertApp\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.deps.json
+C:\DGAM\Domingo\ITLA\2021 C3\TDS-003 PROGRAMACION I\SEMANA IV\Asignaciones\InvertApp\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.runtimeconfig.json
+C:\DGAM\Domingo\ITLA\2021 C3\TDS-003 PROGRAMACION I\SEMANA IV\Asignaciones\InvertApp\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.runtimeconfig.dev.json
+C:\DGAM\Domingo\ITLA\2021 C3\TDS-003 PROGRAMACION I\SEMANA IV\Asignaciones\InvertApp\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.dll
+C:\DGAM\Domingo\ITLA\2021 C3\TDS-003 PROGRAMACION I\SEMANA IV\Asignaciones\InvertApp\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.pdb
+C:\DGAM\Domingo\ITLA\2021 C3\TDS-003 PROGRAMACION I\SEMANA IV\Asignaciones\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.csproj.AssemblyReference.cache
+C:\DGAM\Domingo\ITLA\2021 C3\TDS-003 PROGRAMACION I\SEMANA IV\Asignaciones\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DGAM\Domingo\ITLA\2021 C3\TDS-003 PROGRAMACION I\SEMANA IV\Asignaciones\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.AssemblyInfoInputs.cache
+C:\DGAM\Domingo\ITLA\2021 C3\TDS-003 PROGRAMACION I\SEMANA IV\Asignaciones\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.AssemblyInfo.cs
+C:\DGAM\Domingo\ITLA\2021 C3\TDS-003 PROGRAMACION I\SEMANA IV\Asignaciones\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.csproj.CoreCompileInputs.cache
+C:\DGAM\Domingo\ITLA\2021 C3\TDS-003 PROGRAMACION I\SEMANA IV\Asignaciones\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.dll
+C:\DGAM\Domingo\ITLA\2021 C3\TDS-003 PROGRAMACION I\SEMANA IV\Asignaciones\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.pdb
+C:\DGAM\Domingo\ITLA\2021 C3\TDS-003 PROGRAMACION I\SEMANA IV\Asignaciones\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.genruntimeconfig.cache
+C:\Users\junio\OneDrive\Escritorio\InvertApp\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.exe
+C:\Users\junio\OneDrive\Escritorio\InvertApp\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.deps.json
+C:\Users\junio\OneDrive\Escritorio\InvertApp\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.runtimeconfig.json
+C:\Users\junio\OneDrive\Escritorio\InvertApp\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.runtimeconfig.dev.json
+C:\Users\junio\OneDrive\Escritorio\InvertApp\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.dll
+C:\Users\junio\OneDrive\Escritorio\InvertApp\InvertApp\bin\Debug\netcoreapp3.1\InvertApp.pdb
+C:\Users\junio\OneDrive\Escritorio\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.csproj.AssemblyReference.cache
+C:\Users\junio\OneDrive\Escritorio\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\OneDrive\Escritorio\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.AssemblyInfoInputs.cache
+C:\Users\junio\OneDrive\Escritorio\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.AssemblyInfo.cs
+C:\Users\junio\OneDrive\Escritorio\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Escritorio\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.dll
+C:\Users\junio\OneDrive\Escritorio\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.pdb
+C:\Users\junio\OneDrive\Escritorio\InvertApp\InvertApp\obj\Debug\netcoreapp3.1\InvertApp.genruntimeconfig.cache
