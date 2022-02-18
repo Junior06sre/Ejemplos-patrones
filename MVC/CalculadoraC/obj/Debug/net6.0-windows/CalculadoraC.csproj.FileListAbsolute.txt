@@ -1,0 +1,17 @@
+C:\Users\junio\source\repos\CalculadoraC\CalculadoraC\bin\Debug\net6.0-windows\CalculadoraC.exe
+C:\Users\junio\source\repos\CalculadoraC\CalculadoraC\bin\Debug\net6.0-windows\CalculadoraC.deps.json
+C:\Users\junio\source\repos\CalculadoraC\CalculadoraC\bin\Debug\net6.0-windows\CalculadoraC.runtimeconfig.json
+C:\Users\junio\source\repos\CalculadoraC\CalculadoraC\bin\Debug\net6.0-windows\CalculadoraC.dll
+C:\Users\junio\source\repos\CalculadoraC\CalculadoraC\bin\Debug\net6.0-windows\ref\CalculadoraC.dll
+C:\Users\junio\source\repos\CalculadoraC\CalculadoraC\bin\Debug\net6.0-windows\CalculadoraC.pdb
+C:\Users\junio\source\repos\CalculadoraC\CalculadoraC\obj\Debug\net6.0-windows\CalculadoraC.csproj.AssemblyReference.cache
+C:\Users\junio\source\repos\CalculadoraC\CalculadoraC\obj\Debug\net6.0-windows\CalculadoraC.Form1.resources
+C:\Users\junio\source\repos\CalculadoraC\CalculadoraC\obj\Debug\net6.0-windows\CalculadoraC.csproj.GenerateResource.cache
+C:\Users\junio\source\repos\CalculadoraC\CalculadoraC\obj\Debug\net6.0-windows\CalculadoraC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\source\repos\CalculadoraC\CalculadoraC\obj\Debug\net6.0-windows\CalculadoraC.AssemblyInfoInputs.cache
+C:\Users\junio\source\repos\CalculadoraC\CalculadoraC\obj\Debug\net6.0-windows\CalculadoraC.AssemblyInfo.cs
+C:\Users\junio\source\repos\CalculadoraC\CalculadoraC\obj\Debug\net6.0-windows\CalculadoraC.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\CalculadoraC\CalculadoraC\obj\Debug\net6.0-windows\CalculadoraC.dll
+C:\Users\junio\source\repos\CalculadoraC\CalculadoraC\obj\Debug\net6.0-windows\ref\CalculadoraC.dll
+C:\Users\junio\source\repos\CalculadoraC\CalculadoraC\obj\Debug\net6.0-windows\CalculadoraC.pdb
+C:\Users\junio\source\repos\CalculadoraC\CalculadoraC\obj\Debug\net6.0-windows\CalculadoraC.genruntimeconfig.cache
